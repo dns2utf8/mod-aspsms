@@ -1,7 +1,7 @@
 {
   "name": "mod-aspsms",
   "description": "a SMS gateway provider for Aspsms",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "author": "Tuxle <tuxle@estada.ch>",
   "contributors": [
     {
