@@ -1,12 +1,12 @@
 {
   "name": "mod-aspsms",
   "description": "a SMS gateway provider for Aspsms",
-  "version": "1.0.0",
-  "author": "Tuxle <tuxle@estada.ch>",
+  "version": "2.0.0",
+  "author": "Stefan Schindler <dns2utf8@estada.ch>",
   "contributors": [
     {
-      "name": "Tuxle",
-      "email": "tuxle@estada.ch"
+      "name": "Stefan Schindler",
+      "email": "dns2utf8@estada.ch"
     }
   ],
   "keywords": [
@@ -23,7 +23,7 @@
   "repository": "git://github.com/dns2utf8/mod-aspsms.git",
   "dependencies": {},
   "engines": {
-    "node": ">= 0.8.0"
+    "node": ">= 10.8.0"
   },
   "licenses": [
     {
