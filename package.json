@@ -1,7 +1,7 @@
 {
   "name": "mod-aspsms",
   "description": "a SMS gateway provider for Aspsms",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": "Stefan Schindler <dns2utf8@estada.ch>",
   "contributors": [
     {

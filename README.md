@@ -15,11 +15,11 @@ var config = {
   "URLNonDeliveryNotification": "https://example.com/failure"
 };
 
-var sms = require('./')(config);
+const sms = require('mod-aspsms')(config);
 
-var msg = 'Test SMS from NodeJs';
+const msg = 'Test SMS from NodeJs';
 
-var addressBook = ['+41798765432'];
+const addressBook = ['+41798765432'];
 
 sms.send(addressBook, msg);
 ```
